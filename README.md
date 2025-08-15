@@ -36,15 +36,7 @@ I take projects from concept to deployment, delivering clean, maintainable code 
 ---
 
 ## 📂 Featured Projects
-### 🔹 [WebGL Puzzle Game](#)
-A browser-based puzzle game built with Unity and WebGL, optimized for both desktop and mobile browsers.
-
-### 🔹 [Cross-Platform Endless Runner](#)
-An endless runner mobile game for Android & iOS, featuring smooth controls and high performance on all devices.
-
-### 🔹 [.NET Business Dashboard](#)
-A responsive dashboard built in .NET Core with real-time API integration and secure authentication.
-
+[Private]
 ---
 
 ## 📫 Contact
