@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Unisonary
 **Unity, WebGL & Game Developer | Mobile Apps, .NET & Full-Stack Web**
 
 ---
@@ -48,10 +48,7 @@ A responsive dashboard built in .NET Core with real-time API integration and sec
 ---
 
 ## 📫 Contact
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- **Upwork:** [Your Upwork Profile Link](#)
-- **Portfolio:** [yourportfolio.com](#)
+[Private]
 
 ---
 
