@@ -37,6 +37,7 @@ I take projects from concept to deployment, delivering clean, maintainable code 
 
 ## 📂 Featured Projects
 [Private]
+
 ---
 
 ## 📫 Contact
