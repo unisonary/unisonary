@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **game and software developer** from Ukraine, specializing in:
+I'm a passionate **game and software developer** specializing in:
 - 🎮 **Unity** game development
 - 🌐 **WebGL** browser-based interactive experiences
 - 📱 Mobile game & app development (Android & iOS)
