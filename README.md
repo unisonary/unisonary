@@ -41,7 +41,8 @@ I take projects from concept to deployment, delivering clean, maintainable code 
 ---
 
 ## 📫 Contact
-[Private]
+Personal: bylava995@gmail.com
+Work Email: unisonary@outlook.com
 
 ---
 
