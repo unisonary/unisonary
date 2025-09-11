@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Unisonary
-**Unity, WebGL & Game Developer | Mobile Apps | .NET | Full-Stack Web**
+**Unity Developer**
 
 ## 🚀 About Me
 I’m a passionate **game programmer** and **software developer** who loves creating engaging digital experiences.  
